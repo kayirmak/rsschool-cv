@@ -11,6 +11,7 @@
 ***
 ### About me
 Passed an internship for 7 months in a Bishkek IT company, worked on fixing bugs, adding functionality, used Vue js.
+
 ***
 ### Skills
 - HTML
@@ -19,6 +20,7 @@ Passed an internship for 7 months in a Bishkek IT company, worked on fixing bugs
 - Vue, Vuex
 - React
 - GraphQl
+
 ***
 ### Code Example
 ```    
@@ -30,3 +32,21 @@ function alienLanguage(str){
     return arr.join(" ")
 }
 ```
+
+***
+### Experience
+- Discovery Studio(03.2021 - 06.2021, 09.2021 - 01.2022)
+    - intern "Frontend dev"
+
+***
+### Education
+- Kyrgyz State Technical University named after I.Razzakov (2017 - 2021)
+   - Faculty of Information Technology
+      - Business Information
+- Programming courses "Makers" - Javascript(03.2020 - 06.2020)
+- Udemy courses - [Vue js](https://www.udemy.com/course/vue-and-vuex-writing-real-project-from-scratch/)
+- English courses "Toefl Center" - A1, A2(02.2021 - 06.2021)
+***
+
+### English
+level - A2
