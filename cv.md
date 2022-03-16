@@ -46,7 +46,7 @@ function alienLanguage(str){
 - Programming courses "Makers" - Javascript(03.2020 - 06.2020)
 - Udemy courses - [Vue js](https://www.udemy.com/course/vue-and-vuex-writing-real-project-from-scratch/)
 - English courses "Toefl Center" - A1, A2(02.2021 - 06.2021)
-***
 
+***
 ### English
 level - A2
