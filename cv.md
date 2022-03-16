@@ -11,7 +11,7 @@
 ***
 ### About me
 Passed an internship for 7 months in a Bishkek IT company, worked on fixing bugs, adding functionality, used Vue js.
-
+***
 ### Skills
 - HTML
 - CSS
@@ -19,7 +19,7 @@ Passed an internship for 7 months in a Bishkek IT company, worked on fixing bugs
 - Vue, Vuex
 - React
 - GraphQl
-
+***
 ### Code Example
 ```    
 function alienLanguage(str){
