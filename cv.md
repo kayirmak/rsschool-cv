@@ -7,3 +7,6 @@
 - **Email**:  dzhumabaev.kai@gmail.com
 - **Github**:  [kayirmak](https://github.com/kayirmak)
 - **Discord**:  kayirmak#5510
+***
+### About me
+Passed an internship for 7 months in a Bishkek IT company, worked on fixing bugs, adding functionality, used Vue js.
