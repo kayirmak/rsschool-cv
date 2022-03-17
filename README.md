@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kayirmak.github.io/rsschool-cv/
