@@ -1,1 +1,1 @@
-[https://kayirmak.github.io/rsschool-cv/cv](https://kayirmak.github.io/rsschool-cv/cv)
+https://kayirmak.github.io/rsschool-cv/
